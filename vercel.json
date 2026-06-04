@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://ais-pre-mve4ks7zvn7vxcqnhpw5rd-823219368494.europe-west2.run.app/api/:path*"
+    },
+    {
+      "source": "/aa/:path*",
+      "destination": "https://ais-pre-mve4ks7zvn7vxcqnhpw5rd-823219368494.europe-west2.run.app/aa/:path*"
+    }
+  ]
+}
